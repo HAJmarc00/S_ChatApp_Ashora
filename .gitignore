@@ -1,0 +1,9 @@
+venv/
+
+chats/migrations/
+
+migrations/
+
+groups/migrations/
+
+accounts/migrations/
