@@ -4,7 +4,7 @@ P_Ashora_ChatApp based on django 5.2 and Python 3.13 .
 ================================================
 
 
-run : docker-compose up --build -d
+run : docker-compose up -d --build
 
 this command will install all you need for run project, and thats will run it on your http://localhost:8000
 
